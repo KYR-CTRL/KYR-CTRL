@@ -9,8 +9,8 @@ google-site-verification: googlec7a0e0f7b7d5aaa3.html
     <meta name="viewport" content="width=, initial-scale=1.0">
     <title>Kaydol Formu</title>
     <link rel="stylesheet" href="style.css">
-    <meta name="google-site-verification" content="PuujJ80JBVPruH8jxUX-ziSzDanLAJRA0j-4MyetWn4" />
 </head>
+    <meta name="google-site-verification" content="PuujJ80JBVPruH8jxUX-ziSzDanLAJRA0j-4MyetWn4" />
 <body>
     <div class="signup-form">
         <form action="index.html">
