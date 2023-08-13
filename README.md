@@ -1,16 +1,13 @@
 
-google-site-verification: googlec7a0e0f7b7d5aaa3.html
-
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <meta name="google-site-verification" content="PuujJ80JBVPruH8jxUX-ziSzDanLAJRA0j-4MyetWn4" />
     <meta charset="UTF-8">
     <meta name="viewport" content="width=, initial-scale=1.0">
     <title>Kaydol Formu</title>
     <link rel="stylesheet" href="style.css">
 </head>
-    <meta name="google-site-verification" content="PuujJ80JBVPruH8jxUX-ziSzDanLAJRA0j-4MyetWn4" />
 <body>
     <div class="signup-form">
         <form action="index.html">
