@@ -14,10 +14,6 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N6CQ2TRN"
-    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-    <!-- End Google Tag Manager (noscript) -->
     <div class="signup-form">
         <form action="index.html">
             <h1>Sign Up</h1>
