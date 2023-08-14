@@ -12,6 +12,16 @@
 <body>
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6868381320672801"
      crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-6868381320672801"
+     data-ad-slot="9062908390"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6868381320672801"
+     crossorigin="anonymous"></script>
 <!-- Reklam -->
 <ins class="adsbygoogle"
      style="display:block"
