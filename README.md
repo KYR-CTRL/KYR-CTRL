@@ -22,6 +22,8 @@
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
     <div class="login">
         <div class="box">
