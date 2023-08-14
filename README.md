@@ -1,4 +1,4 @@
-
+google.com, pub-6868381320672801, DIRECT, f08c47fec0942fa0
     <!DOCTYPE html>
 <html lang="en">
 <head>
